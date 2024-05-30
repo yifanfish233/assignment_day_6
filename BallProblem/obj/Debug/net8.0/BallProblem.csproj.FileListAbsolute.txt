@@ -1,0 +1,15 @@
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/BallProblem/bin/Debug/net8.0/BallProblem
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/BallProblem/bin/Debug/net8.0/BallProblem.deps.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/BallProblem/bin/Debug/net8.0/BallProblem.runtimeconfig.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/BallProblem/bin/Debug/net8.0/BallProblem.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/BallProblem/bin/Debug/net8.0/BallProblem.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/BallProblem/obj/Debug/net8.0/BallProblem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/BallProblem/obj/Debug/net8.0/BallProblem.AssemblyInfoInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/BallProblem/obj/Debug/net8.0/BallProblem.AssemblyInfo.cs
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/BallProblem/obj/Debug/net8.0/BallProblem.csproj.CoreCompileInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/BallProblem/obj/Debug/net8.0/BallProblem.sourcelink.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/BallProblem/obj/Debug/net8.0/BallProblem.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/BallProblem/obj/Debug/net8.0/refint/BallProblem.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/BallProblem/obj/Debug/net8.0/BallProblem.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/BallProblem/obj/Debug/net8.0/BallProblem.genruntimeconfig.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/BallProblem/obj/Debug/net8.0/ref/BallProblem.dll

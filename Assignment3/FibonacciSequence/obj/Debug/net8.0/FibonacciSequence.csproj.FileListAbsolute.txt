@@ -1,0 +1,15 @@
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/Assignment3/FibonacciSequence/bin/Debug/net8.0/FibonacciSequence
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/Assignment3/FibonacciSequence/bin/Debug/net8.0/FibonacciSequence.deps.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/Assignment3/FibonacciSequence/bin/Debug/net8.0/FibonacciSequence.runtimeconfig.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/Assignment3/FibonacciSequence/bin/Debug/net8.0/FibonacciSequence.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/Assignment3/FibonacciSequence/bin/Debug/net8.0/FibonacciSequence.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/Assignment3/FibonacciSequence/obj/Debug/net8.0/FibonacciSequence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/Assignment3/FibonacciSequence/obj/Debug/net8.0/FibonacciSequence.AssemblyInfoInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/Assignment3/FibonacciSequence/obj/Debug/net8.0/FibonacciSequence.AssemblyInfo.cs
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/Assignment3/FibonacciSequence/obj/Debug/net8.0/FibonacciSequence.csproj.CoreCompileInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/Assignment3/FibonacciSequence/obj/Debug/net8.0/FibonacciSequence.sourcelink.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/Assignment3/FibonacciSequence/obj/Debug/net8.0/FibonacciSequence.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/Assignment3/FibonacciSequence/obj/Debug/net8.0/refint/FibonacciSequence.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/Assignment3/FibonacciSequence/obj/Debug/net8.0/FibonacciSequence.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/Assignment3/FibonacciSequence/obj/Debug/net8.0/FibonacciSequence.genruntimeconfig.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_6/Assignment3/FibonacciSequence/obj/Debug/net8.0/ref/FibonacciSequence.dll
